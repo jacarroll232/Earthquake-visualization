@@ -12,6 +12,7 @@ The data markers reflect the magnitude of the earthquake in their size and color
 Popups provide additional information about the earthquake when a marker is clicked.
 
 
-The legend that provides context for the map data.
+
+The legend provides context for the map data.
 
 
