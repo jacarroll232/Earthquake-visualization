@@ -20,4 +20,3 @@ Popups provide additional information about the earthquake when a marker is clic
 The legend provides context for the map data.
 
 
-
