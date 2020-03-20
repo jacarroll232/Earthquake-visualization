@@ -1,6 +1,7 @@
 I created a map using Leaflet that plots all of the earthquakes from my data set based on their longitude and latitude.
 
 
+
 The USGS provides earthquake data in a number of different formats, and i utilized the JSON format.
 
 
