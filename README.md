@@ -1,4 +1,4 @@
-Earthquake Visualization
+# Earthquake Visualization
 
 
 
@@ -7,7 +7,7 @@ I created a map using Leaflet that plots all of the earthquakes from my data set
 
 
 
-The USGS provides earthquake data in a number of different formats, and i utilized the JSON format.
+The USGS provides earthquake data in a number of different formats, and i extracted their JSON format.
 
 
 
@@ -20,3 +20,7 @@ Popups provide additional information about the earthquake when a marker is clic
 
 The legend provides context for the map data.
 
+
+## Graph
+
+![graph](https://github.com/jacarroll232/Earthquake-visualization/blob/master/earthquake.png)
